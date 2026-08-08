@@ -172,6 +172,10 @@ function build_product_group_sql($term_group, &$bind_params) {
 
   <h1>[ <?php echo $query_expression; ?> ] -- 貴哥的噗 by tags</h1>
 
+  <p><a href="https://newtoypia.blogspot.com/2026/08/tagging-plurk.html">
+  「LLM API 練習： 台幣三元能做多少事? 幫四千多則噗浪貼文下標籤」</a>
+  一文有關於這個網頁的說明。
+
 <?php
 if (empty($query_terms)) {
     // 1. 取得資料庫中實際存在的所有標籤

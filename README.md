@@ -1,6 +1,7 @@
 # tagging-plurk
 
-用 LLM 幫噗浪貼文下標籤。 詳情另文解釋 (連結待補)。
+用 LLM 幫噗浪貼文下標籤。 詳細解說請見：
+[LLM API 練習： 台幣三元能做多少事? 幫四千多則噗浪貼文下標籤](https://newtoypia.blogspot.com/2026/08/tagging-plurk.html)
 
 ## 1. 建立資料庫
 
